@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### Category Name 1 TidyTuesday
+### TidyTuesday
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -10,11 +10,11 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-### Category Name 2
+### Other projects
 
 [Popular Afrobeat music on Spotify](https://sgichuki.github.io/Afrobeats/.)
 
-
+### Category Name 3
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
