@@ -12,7 +12,7 @@
 ---
 ### Other projects
 
-[Popular Afrobeat music on Spotify](https://sgichuki.github.io/Afrobeats/.)
+[Popular music on Spotify: afrobeats](https://sgichuki.github.io/Afrobeats/.)
 
 ### Category Name 3
 ---
