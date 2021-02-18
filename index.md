@@ -12,7 +12,7 @@
 ---
 ### Category Name 2
 
-[Afro beats music analysis](/sample_page)
+[Afro beats music analysis](https://sgichuki.github.io/Afrobeats/.)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
