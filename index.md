@@ -12,6 +12,7 @@
 ---
 ### Other projects
 
+[Wind data from a Sonic anemometer](https://sgichuki.github.io/Atmo/.)
 [Popular music on Spotify: afrobeats](https://sgichuki.github.io/Afrobeats/.)
 
 ### Category Name 3
