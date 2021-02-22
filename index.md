@@ -22,7 +22,4 @@
 * **BSc. Industrial Chemistry**| University of Nairobi 
  
 
-
-
-
 ---
