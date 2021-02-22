@@ -17,10 +17,10 @@
 
 ---
 ### Education
--**PhD Chemistry**| University of Connecticut 
--**IMIS-UK Higher Diploma**| Strathmore University 
--**BSc. Industrial Chemistry**| University of Nairobi
-
+**PhD Chemistry**| University of Connecticut </br>
+**IMIS-UK Higher Diploma**| Strathmore University __ 
+**BSc. Industrial Chemistry**| University of Nairobi __
+ 
 
 
 
