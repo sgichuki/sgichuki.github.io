@@ -1,8 +1,10 @@
 title: Susan G #your name (or website title) here
 logo: "/images/purpleflower-flickr.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a researcher in the environmental sciences who uses R for data analysis and visualization. 
-  jlkjkjlkjlk
+  I am a researcher who uses R for data analysis and visualisation. <br>
+  My research specialisation is in the environmental sciences.Recent work <br>
+  was focused on greenhouse gas emissions from industries (e.g. oil and gas, waste). 
+  Previously I worked on research investigating atmospheric mercury pollution in the environment
   <br><br>
   Second description 
   <br><br>
