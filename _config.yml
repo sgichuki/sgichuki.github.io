@@ -1,4 +1,4 @@
-title: Susan G #your name (or website title) here
+title: Susan Gichuki #your name (or website title) here
 logo: "/images/purpleflower-flickr.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a researcher who uses R for data analysis and visualisation. 
@@ -10,8 +10,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I worked on research investigating atmospheric mercury pollution in the environment
   <br><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/susanwgichuki/">View My LinkedIn Profile</a> 
-  
+*Education 
+*PhD Chemistry, University of Connecticut 
+*BSc. Industrial Chemistry, University of Nairobi
   
   
 theme: jekyll-theme-minimal
