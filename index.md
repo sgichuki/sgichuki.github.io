@@ -15,12 +15,6 @@
 [Plot wind data from Sonic anemometer](https://sgichuki.github.io/Atmo/) <br>
 [Popular music on Spotify: afrobeats](https://sgichuki.github.io/Afrobeats/.)
 
-### Category Name 3
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
----
-[Project 3 Title](http://example.com/)
 
 
 ---
