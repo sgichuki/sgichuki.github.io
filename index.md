@@ -18,8 +18,8 @@
 ---
 ### Education
 **PhD Chemistry**| University of Connecticut </br>
-**IMIS-UK Higher Diploma**| Strathmore University __ 
-**BSc. Industrial Chemistry**| University of Nairobi __
+**IMIS-UK Higher Diploma**| Strathmore University </br>
+**BSc. Industrial Chemistry**| University of Nairobi </br>
  
 
 
