@@ -17,9 +17,9 @@
 
 ---
 ### Education
-- PhD Chemistry University of Connecticut
+- PhD Chemistry-University of Connecticut
 - Higher Diploma IMIS-UK (Institute for the Management of Information Systems)
   Strathmore University 
-- BSc. Industrial Chemistry University of Nairobi
+- BSc. Industrial Chemistry-University of Nairobi
  
 ---
