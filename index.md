@@ -13,7 +13,7 @@
 ### Other projects
 
 [Plot wind data from Sonic anemometer](https://sgichuki.github.io/Atmo/) <br>
-[Popular music on Spotify: analysis of afrobeats](https://sgichuki.github.io/Afrobeats/.)
+[Popular music on Spotify: analysis of afrobeats](https://sgichuki.github.io/Afrobeats/.)<br>
 [Mercury in fish](https://sgichuki.github.io/Contaminants/Hg-in-fish.)
 
 
