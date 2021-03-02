@@ -1,20 +1,16 @@
 ## Portfolio
 
 ---
-### TidyTuesday
-
+### Tidy Tuesday
+Submissions to the #TidyTuesday challenge 
 - [W.E.B. Dubois challenge](https://sgichuki.github.io/TidyTuesday/2021-02-16) <br>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 ### Other projects
 
 [Plot wind data from Sonic anemometer](https://sgichuki.github.io/Atmo/) <br>
-[Popular music on Spotify: analysis of afrobeats](https://sgichuki.github.io/Afrobeats/.)<br>
-[Mercury in fish](https://sgichuki.github.io/Contaminants/Hg-in-fish/)
+[Mercury in fish](https://sgichuki.github.io/Contaminants/Hg-in-fish/) <br>
+[Popular music on Spotify](https://sgichuki.github.io/Afrobeats/.)<br>
 
 
 ---
