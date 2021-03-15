@@ -5,6 +5,7 @@
 Submissions to the #TidyTuesday challenge <br>
 - [W.E.B. Dubois challenge](https://sgichuki.github.io/TidyTuesday/2021-02-16) <br>
 - [Wind turbines in Canada](https://sgichuki.github.io/TidyTuesday/2020-10-27) <br>
+- [Measles vaccination rates]
 
 ---
 ### Other projects
