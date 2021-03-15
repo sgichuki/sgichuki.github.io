@@ -10,9 +10,9 @@ Submissions to the #TidyTuesday challenge <br>
 ---
 ### Other projects
 
-[Plot wind data from Sonic anemometer](https://sgichuki.github.io/Atmo/) <br>
-[Mercury in fish](https://sgichuki.github.io/Contaminants/Hg-in-fish/) <br>
-[Popular music on Spotify](https://sgichuki.github.io/Afrobeats/.)<br>
+- [Plot wind data from Sonic anemometer](https://sgichuki.github.io/Atmo/) <br>
+- [Mercury in fish](https://sgichuki.github.io/Contaminants/Hg-in-fish/) <br>
+- [Popular music on Spotify](https://sgichuki.github.io/Afrobeats/.)<br>
 
 
 ---
