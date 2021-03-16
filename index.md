@@ -4,8 +4,9 @@
 ### Tidy Tuesday
 Submissions to the #TidyTuesday challenge <br>
 - [W.E.B. Dubois challenge](https://sgichuki.github.io/TidyTuesday/2021-02-16) <br>
+- [U.S. weekly median earnings](https://sgichuki.github.io/TidyTuesday/2021-02-23)<br>
 - [Wind turbines in Canada](https://sgichuki.github.io/TidyTuesday/2020-10-27) <br>
-- [Measles vaccination rates](https://sgichuki.github.io/TidyTuesday/2020-02-25)
+- [Measles vaccination rates](https://sgichuki.github.io/TidyTuesday/2020-02-25) <br>
 
 ---
 ### Other projects
